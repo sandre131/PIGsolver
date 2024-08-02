@@ -26,7 +26,7 @@ Application
 
 Description
     Direct simulation Monte Carlo (DSMC) solver for 3D, transient, multi-
-    species flows
+    species flows. Applied F force.
 
 \*---------------------------------------------------------------------------*/
 
