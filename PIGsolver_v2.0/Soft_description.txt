@@ -2,3 +2,5 @@
 Linux Mint v. 10, 
 OpenFOAM v. 2.1.1, 
 ParaView v. 3.1.
+
+if you will remake something please make "s" small - "PIGsolver"
