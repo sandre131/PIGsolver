@@ -1,0 +1,3 @@
+plasmadynamic.C
+
+EXE = $(FOAM_APPBIN)/plasmadynamic

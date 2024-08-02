@@ -1,0 +1,3 @@
+PIGSolver.C
+
+EXE = $(FOAM_APPBIN)/PIGSolver
